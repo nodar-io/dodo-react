@@ -1,0 +1,44 @@
+@import "../_variables.scss";
+
+.category {
+  overflow:hidden;
+  @media (max-width: 520px) {
+   width:100%;
+    overflow: scroll;
+    
+   &__list{
+    width:785px;
+   }
+  }
+
+  &__list {
+    
+    transform: translateX(-52px);
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    
+    li {
+      font-weight: 600;
+      transition: color $duration ease;
+      
+    }
+
+    li:hover {
+      color: $orange;
+      cursor: pointer;
+    }
+    @media (max-width: 865px) {
+      margin-top: 15px;
+      
+  }
+  transition:all 0.4s ease;
+}
+.show{
+  transform: translateX(0px);
+}
+}
+
+.active{
+  color:$orange;
+}

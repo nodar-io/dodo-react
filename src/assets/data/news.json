@@ -1,0 +1,70 @@
+[
+  {
+    "id": "pizza_julien",
+    "name": "Пицца Жюльен",
+    "imageURL": "https://dodopizza-a.akamaihd.net/static/Img/Products/e482d5c7b107456783a0e0100952d05f_584x584.webp",
+    "type": "pizza",
+    "types": ["Традиционное", "Тонкое"],
+    "sizes": ["Маленькая", "Средняя", "Большая"],
+    "weight": [430, 630, 820],
+    "price": [469, 719, 799],
+    "ingredients": [
+      "Цыпленок",
+      "шампиньоны",
+      "сливочный соус с грибами",
+      "красный лук",
+      "чеснок",
+      "моцарелла",
+      "смесь сыров чеддер и пармезан",
+      "фирменный соус альфредо"
+    ]
+  },
+  {
+    "id": "dodster-ham",
+    "index": 1,
+    "name": "Додстер с ветчиной",
+    "type": "snack",
+    "imageURL": "https://dodopizza-a.akamaihd.net/static/Img/Products/3b9674f4961c4e3ab301ca01711d1f11_1875x1875.webp",
+    "weight": 160,
+    "price": 169,
+    "ingredients": "Горячий завтрак с ветчиной, томатами, моцареллой, соусом ранч в тонкой пшеничной лепешке"
+  },
+  {
+    "id": "denvich-ham-and-cheese",
+    "index": 5,
+    "name": "Дэнвич ветчина и сыр",
+    "type": "snack",
+    "imageURL": "https://dodopizza-a.akamaihd.net/static/Img/Products/727c8ec398bb48bc814a2d83c2e6a74c_292x292.webp",
+    "weight": 210,
+    "price": 229,
+    "ingredients": "Поджаристая чиабатта и знакомое сочетание ветчины, цыпленка, моцареллы со свежими томатами, соусом ранч и чесноком"
+  },
+  {
+    "id": "denvich-chorisso-bbq",
+    "index": 6,
+    "name": "Дэнвич чоризо барбекю",
+    "type": "snack",
+    "imageURL": "https://dodopizza-a.akamaihd.net/static/Img/Products/87b6d4ca8df7430497de8ceaac09203e_292x292.webp",
+    "weight": 210,
+    "price": 229,
+    "ingredients": "Насыщенный вкус колбасок чоризо и пепперони с соусами бургер и барбекю, свежими томатами, маринованными огурчиками, моцареллой и луком в румяной чиабатте"
+  },
+  {
+    "id": "myasnoy-mix",
+    "name": "Мясной Микс с пастрами из говядины",
+    "imageURL": "https://dodopizza-a.akamaihd.net/static/Img/Products/4cc24119285949f09e5a4da61fd711ed_584x584.webp",
+    "types": ["Традиционное", "Тонкое"],
+    "type": "pizza",
+    "sizes": ["Маленькая", "Средняя", "Большая"],
+    "weight": [400, 640, 880],
+    "price": [519, 819, 949],
+    "ingredients": [
+      "Пастрами из мраморной говядины",
+      "острая чоризо",
+      "пикантная пепперони",
+      "бекон",
+      "моцарелла",
+      "фирменный томатный соус"
+    ]
+  }
+]

@@ -1,0 +1,35 @@
+.header {
+  width: $container-width;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+
+  &__top {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  &__info {
+    margin-left: 10px;
+
+    p {
+      font-size: 14px;
+    }
+  }
+  h2 {
+    font-weight: 800;
+  }
+  button {
+    color: #5c6370;
+    height: 32px;
+    font-size: 14px;
+    border-radius: 20px;
+    border: 0px;
+    padding: 0px 16px;
+    cursor: pointer;
+    &:hover {
+      color: black;
+    }
+  }
+}

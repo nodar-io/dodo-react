@@ -1,0 +1,70 @@
+@import "../variables";
+
+.size__slider {
+  height: 120px;
+  margin:0px -10px;
+}
+.slider {
+  width: 100vw;
+  position: relative;
+  user-select: none;
+  transform: translate3d(0px, 0px, 0px);
+  backface-visibility: visible;
+  z-index: 10;
+
+  transition: height 200ms ease-out 0s, opacity;
+}
+.overflow {
+  // overflow: hidden;
+  width: 150%;
+  margin-left: -33%;
+  padding: 9px 33% 20px;
+  position: relative;
+}
+
+.prevent{
+  user-select: none;
+}
+.carousel {
+  display: flex;
+  align-items: flex-start;
+  transition: transform 300ms ease-out 0s;
+
+  &__header {
+    margin: 80px 0px 30px 0px;
+    font-size: 24px;
+    font-weight: 500;
+  }
+
+  &__content {
+    display: flex;
+    background: rgb(255, 255, 255);
+    transition: box-shadow 150ms ease-out 0s;
+    flex: 0 0 auto;
+    box-shadow: rgb(6 5 50 / 15%) 0px 4px 22px -3px;
+    border-radius: 12px;
+    padding: 16px;
+    width: 280px;
+    
+    cursor: pointer;
+    align-items: center;
+    margin-right: 20px;
+    &:hover {
+      box-shadow: rgb(6 5 50 / 15%) 0px 0px 12px -4px;
+    }
+    img{
+      pointer-events: none;
+    }
+  }
+  &__info {
+    margin-left: 10px;
+    
+    h3 {
+      font-size: 14px;
+      margin-bottom: 5px;
+    }
+    p {
+      font-size: 14px;
+    }
+  }
+}

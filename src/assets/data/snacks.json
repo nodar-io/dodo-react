@@ -1,0 +1,146 @@
+[
+  {
+    "id": "supermeat-dodster",
+    "index": 0,
+    "name": "Супермясной Додстер",
+    "imageURL": "https://dodopizza-a.akamaihd.net/static/Img/Products/b33f34589fa74a3788f3981848084cf2_292x292.webp",
+    "weight": 160,
+    "price": 209,
+    "ingredients": "Горячая закуска с цыпленком, моцареллой, митболами, острыми колбасками чоризо и соусом бургер в тонкой пшеничной лепешке"
+  },
+  {
+    "id": "dodster-ham",
+    "index": 1,
+    "name": "Додстер с ветчиной",
+    "imageURL": "https://dodopizza-a.akamaihd.net/static/Img/Products/3b9674f4961c4e3ab301ca01711d1f11_1875x1875.webp",
+    "weight": 160,
+    "price": 169,
+    "ingredients": "Горячий завтрак с ветчиной, томатами, моцареллой, соусом ранч в тонкой пшеничной лепешке"
+  },
+  {
+    "id": "dodster",
+    "index": 2,
+    "name": "Додстер",
+    "imageURL": "https://dodopizza-a.akamaihd.net/static/Img/Products/be03844e8b8a401ba4af5a4e7f74ea37_292x292.webp",
+    "weight": 210,
+    "price": 169,
+    "ingredients": "Легендарная горячая закуска с цыпленком, томатами, моцареллой, соусом ранч в тонкой пшеничной лепешке"
+  },
+  {
+    "id": "dodster-spice",
+    "index": 3,
+    "name": "Острый Додстер",
+    "imageURL": "https://dodopizza-a.akamaihd.net/static/Img/Products/1d0bf2b8dd2d472294538d1e80381f77_292x292.webp",
+    "weight": 190,
+    "price": 169,
+    "ingredients": "Горячая закуска с цыпленком, перчиком халапеньо, маринованными огурчиками, томатами, моцареллой и соусом барбекю в тонкой пшеничной лепешке"
+  },
+  {
+    "id": "dodster_karri",
+    "index": 4,
+    "name": "Додстер Карри",
+    "imageURL": "https://dodopizza-a.akamaihd.net/static/Img/Products/c65d065f6e654aa2a20787a9e806e04d_292x292.webp",
+    "weight": 180,
+    "price": 200,
+    "ingredients": "Горячая закуска с цыпленком, ананасом, сладким перцем, моцареллой и пряным соусом карри в тонкой пшеничной лепешке"
+  },
+  {
+    "id": "denvich-ham-and-cheese",
+    "index": 5,
+    "name": "Дэнвич ветчина и сыр",
+    "imageURL": "https://dodopizza-a.akamaihd.net/static/Img/Products/727c8ec398bb48bc814a2d83c2e6a74c_292x292.webp",
+    "weight": 210,
+    "price": 229,
+    "ingredients": "Поджаристая чиабатта и знакомое сочетание ветчины, цыпленка, моцареллы со свежими томатами, соусом ранч и чесноком"
+  },
+  {
+    "id": "denvich-chorisso-bbq",
+    "index": 6,
+    "name": "Дэнвич чоризо барбекю",
+    "imageURL": "https://dodopizza-a.akamaihd.net/static/Img/Products/87b6d4ca8df7430497de8ceaac09203e_292x292.webp",
+    "weight": 210,
+    "price": 229,
+    "ingredients": "Насыщенный вкус колбасок чоризо и пепперони с соусами бургер и барбекю, свежими томатами, маринованными огурчиками, моцареллой и луком в румяной чиабатте"
+  },
+  {
+    "id": "gribnoy-starter",
+    "index": 7,
+    "name": "Грибной Стартер",
+    "imageURL": "https://dodopizza-a.akamaihd.net/static/Img/Products/d6c7bc559a534c2093191eb299c3ffe4_292x292.webp",
+    "weight": 150,
+    "price": 169,
+    "ingredients": "Горячая закуска с шампиньонами, моцареллой и соусом ранч в тонкой пшеничной лепешке"
+  },
+  {
+    "id": "syrnyy-starter",
+    "index": 8,
+    "name": "Сырный Стартер",
+    "imageURL": "https://dodopizza-a.akamaihd.net/static/Img/Products/6d6b84d657c740f497409da669c436b8_1875x1875.webp",
+    "weight": 160,
+    "price": 169,
+    "ingredients": "Горячая закуска с очень сырной начинкой. Моцарелла, пармезан, чеддер и соус ранч в тонкой пшеничной лепешке"
+  },
+  {
+    "id": "pasta-carbonara",
+    "index": 9,
+    "name": "Паста Карбонара",
+    "imageURL": "https://dodopizza-a.akamaihd.net/static/Img/Products/3f3e8b312a3c4465b5c162ce459e3c73_1875x1875.webp",
+    "weight": 350,
+    "price": 329,
+    "ingredients": "Паста с беконом, сырами чеддер и пармезан, томатами, моцареллой, фирменным соусом альфредо и чесноком"
+  },
+  {
+    "id": "meat-pasta",
+    "index": 10,
+    "name": "Паста Мясная",
+    "imageURL": "https://dodopizza-a.akamaihd.net/static/Img/Products/2ca9c6ce8014499db95a2aef44706c06_1875x1875.webp",
+    "weight": 330,
+    "price": 329,
+    "ingredients": "Паста с митболами, соусом бургер, моцареллой, фирменным томатным соусом и чесноком"
+  },
+  {
+    "id": "syrnyye-palochki-s-chesnokom",
+    "index": 11,
+    "name": "Сырные палочки с чесноком",
+    "imageURL": "https://dodopizza-a.akamaihd.net/static/Img/Products/ccd4c30efe92439c9875496dd0ba4942_1875x1875.webp",
+    "weight": "16 шт",
+    "price": 249,
+    "ingredients": "Сытный перекус для компании. На пышном тесте только моцарелла, соус ранч и чеснок. В комплекте дополнительный чесночный соус — так вкуснее"
+  },
+  {
+    "id": "kartoshka-syrnyy",
+    "index": 12,
+    "name": "Картофель из печи с соусом",
+    "imageURL": "https://dodopizza-a.akamaihd.net/static/Img/Products/8a79b91de20e46d580d5a49a00bc4030_584x584.webp",
+    "weight": "",
+    "price": 229,
+    "ingredients": "Запеченная в печи картошечка с пряными специями. В комплекте сырный соус"
+  },
+  {
+    "id": "kartoshka",
+    "index": 13,
+    "name": "Картофель из печи с соусом",
+    "imageURL": "https://dodopizza-a.akamaihd.net/static/Img/Products/25f84c8850cf44a39387b9c996d6bea5_584x584.webp",
+    "weight": "",
+    "price": 209,
+    "ingredients": "Запеченная в печи картошечка — привычный вкус и мало масла. В составе пряные специи"
+  },
+  {
+    "id": "krylia-bbq",
+    "index": 14,
+    "name": "Куриные крылья барбекю",
+    "imageURL": "https://dodopizza-a.akamaihd.net/static/Img/Products/e34f4999564e4e58ac4360fb3730e711_584x584.webp",
+    "weight": "10 шт",
+    "price": 379,
+    "ingredients": "Куриные крылышки со специями и ароматом копчения. В порции присутствуют локтевые и плечевые части крылышек"
+  },
+  {
+    "id": "salat-caesar",
+    "index": 15,
+    "name": "Салат Цезарь",
+    "imageURL": "https://dodopizza-a.akamaihd.net/static/Img/Products/8ed02557247946bc83d3c0af51a8d8a9_1875x1875.webp",
+    "weight": 190,
+    "price": 220,
+    "ingredients": "Цыпленок, свежие листья салата айсберг, томаты черри, сыры чеддер и пармезан, соус цезарь, пшеничные гренки, итальянские травы"
+  }
+]

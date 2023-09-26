@@ -1,0 +1,106 @@
+[
+  {
+    "id": "dobriy_cola",
+    "name": "Добрый Кола",
+    "imageURL": "https://dodopizza-a.akamaihd.net/static/Img/Products/742cd20c1696452ca8f52a0ab60779e4_584x584.webp",
+    "weight": "0,5 л",
+    "price": 109,
+    "description": ""
+  },
+  {
+    "id": "dobriy_cola_without_sugar",
+    "name": "Добрый Кола без сахара",
+    "imageURL": "https://dodopizza-a.akamaihd.net/static/Img/Products/519019eabffe4694bff8b727ccac898f_584x584.webp",
+    "weight": "0,5 л",
+    "price": 109,
+    "description": ""
+  },
+  {
+    "id": "dobriy_cola_orange",
+    "name": "Добрый Апельсин",
+    "imageURL": "https://dodopizza-a.akamaihd.net/static/Img/Products/488f7b6fc5f84f56818b70cbb3251057_584x584.webp",
+    "weight": "0,5 л",
+    "price": 109,
+    "description": ""
+  },
+  {
+    "id": "dobriy_lime",
+    "name": "Добрый Лайм-Лимон",
+    "imageURL": "https://dodopizza-a.akamaihd.net/static/Img/Products/710084240db2425196e9892f2a22d0db_584x584.webp",
+    "weight": "0,5 л",
+    "price": 109,
+    "description": ""
+  },
+  {
+    "id": "dobriy_mango",
+    "name": "Добрый Манго-Маракуйя",
+    "imageURL": "https://dodopizza-a.akamaihd.net/static/Img/Products/b95df82b1ff64695bb5471071d1db36e_584x584.webp",
+    "weight": "0,5 л",
+    "price": 109,
+    "description": ""
+  },
+  {
+    "id": "cappuccino",
+    "name": "Кофе Капучино",
+    "imageURL": "https://dodopizza-a.akamaihd.net/static/Img/Products/d45790074f574ccfa9c75884dfe55f09_584x584.webp",
+    "weight": "0,4 л",
+    "price": 149,
+    "description": "Король среди кофейных напитков — классический капучино. Для любителей сбалансированного кофейно-молочного вкуса"
+  },
+  {
+    "id": "rich_tea_black",
+    "name": "Rich Tea Черный с лимоном",
+    "imageURL": "https://dodopizza-a.akamaihd.net/static/Img/Products/6effc9364c36411fb3d5223822a810f6_584x584.webp",
+    "weight": "0,5 л",
+    "price": 109,
+    "description": ""
+  },
+  {
+    "id": "caramel-cappuccino",
+    "name": "Кофе Карамельный капучино",
+    "imageURL": "https://dodopizza-a.akamaihd.net/static/Img/Products/5077dd1995e544539c79e5f639b244bb_584x584.webp",
+    "weight": "0,3 л",
+    "price": 149,
+    "description": "Если не шоколад, то карамель! А капучино с карамельным сиропом особенно хорош"
+  },
+  {
+    "id": "rich_tea_green",
+    "name": "Rich Tea Зеленый",
+    "imageURL": "https://dodopizza-a.akamaihd.net/static/Img/Products/9baf465a6d574ea7b095ca7224f75307_584x584.webp",
+    "weight": "0,5 л",
+    "price": 109,
+    "description": ""
+  },
+  {
+    "id": "latte",
+    "name": "Кофе Латте",
+    "imageURL": "https://dodopizza-a.akamaihd.net/static/Img/Products/0ae91c5c67354e33a13ba07f82e9c167_584x584.webp",
+    "weight": "0,4 л",
+    "price": 149,
+    "description": "Когда хочется нежную молочную пенку, на помощь приходит классический латте"
+  },
+  {
+    "id": "rich_orange_juice",
+    "name": "Апельсиновый сок Rich",
+    "imageURL": "https://dodopizza-a.akamaihd.net/static/Img/Products/05214e463f6b4497a93ad315d2fa0b36_584x584.webp",
+    "weight": "1 л",
+    "price": 199,
+    "description": "Когда хочется нежную молочную пенку, на помощь приходит классический латте"
+  },
+  {
+    "id": "kokosovyy-latte",
+    "name": "Кофе Кокосовый латте",
+    "imageURL": "https://dodopizza-a.akamaihd.net/static/Img/Products/25d1a556b46e4f8e865ff94dea66ed3d_584x584.webp",
+    "weight": "0,3 л",
+    "price": 149,
+    "description": "Горячий напиток на основе эспрессо с увеличенной порцией молока и кокосовым сиропом"
+  },
+  {
+    "id": "americano",
+    "name": "Кофе Американо",
+    "imageURL": "https://dodopizza-a.akamaihd.net/static/Img/Products/b3e4267e06334a428dcc9f1f10a72f34_584x584.webp",
+    "weight": "0,4 л",
+    "price": 99,
+    "description": "Пара глотков горячего Американо, и вы будете готовы покорять этот день"
+  }
+]

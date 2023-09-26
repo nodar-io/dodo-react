@@ -1,0 +1,99 @@
+[
+  {
+    "id":"sticks-w-mango-n-pineapple",
+    "name": "Слоеные палочки с соусом манго и ананасами",
+    "imageURL": "https://dodopizza-a.akamaihd.net/static/Img/Products/94339849f41544578bee88bd7e16b1dc_584x584.webp",
+    "weight": "8 шт",
+    "price": 249,
+    "ingredients": "Это что-то на тропическом! Ананас и манговый соус на воздушном слоеном тесте"
+  },
+  {
+    "id":"banana-coctail",
+    "name": "Банановый молочный коктейль",
+    "imageURL": "https://dodopizza-a.akamaihd.net/static/Img/Products/552bcfeb75814ab9b87d8d06060cc9d9_292x292.webp",
+    "weight": "0,3 л",
+    "price": 205,
+    "ingredients": "По-настоящему солнечный! Молочный коктейль с добавлением бананового пюре"
+  },
+  {
+    "id":"sticks-w-lingonberry-n-pineapple",
+    "name": "Слоеные палочки с ананасами и брусникой",
+    "imageURL": "https://dodopizza-a.akamaihd.net/static/Img/Products/b61244b188fa4bcaa5c751f970954ffb_292x292.webp",
+    "weight": "8 шт",
+    "price": 229,
+    "ingredients": "Здесь все сразу — брусника и ананас со сгущенкой на слоеном тесте"
+  },
+  {
+    "id":"Tiramisu",
+    "name": "Тирамису",
+    "imageURL": "https://dodopizza-a.akamaihd.net/static/Img/Products/3791a1adabd24d40b6b4747a504d5140_292x292.webp",
+    "weight": "100 г",
+    "price": 229,
+    "ingredients": "Десерт со вкусом dolce vita! Многослойный нежный тирамису в лучших итальянских традициях"
+  },
+  {
+    "id":"kokteyl-karamelnoye-yabloko",
+    "name": "Карамельное яблоко молочный коктейль",
+    "imageURL": "https://dodopizza-a.akamaihd.net/static/Img/Products/6963ad0a61434948ae262e7cf2414d1a_1875x1875.webp",
+    "weight": "0,3 л",
+    "price": 205,
+    "ingredients": "Уютное сочетание яблочного вкуса, теплой карамели, молока и мороженого в вашем стакане"
+  },
+  {
+    "id":"Brownie",
+    "name": "Брауни",
+    "imageURL": "https://dodopizza-a.akamaihd.net/static/Img/Products/a1b0a4b7ad304311a3f4195281a9d7d0_1875x1875.webp",
+    "weight": "55 г",
+    "price": 139,
+    "ingredients": "Умножили какао на шоколад и получили изумительный десерт. Вот такая сладкая арифметика"
+  },
+  {
+    "id":"shokoladnyy-kokteyl",
+    "name": "Шоколадный молочный коктейль",
+    "imageURL": "https://dodopizza-a.akamaihd.net/static/Img/Products/8f463da299934c02be98098809ceb885_1875x1875.webp",
+    "weight": "0,3 л",
+    "price": 199,
+    "ingredients": "Очаровательная шоколадная нежность. Попробуйте молочный коктейль с какао и мороженым"
+  },
+  {
+    "id":"kokteyl-s-oreo",
+    "name": "Молочный коктейль с печеньем Орео",
+    "imageURL": "https://dodopizza-a.akamaihd.net/static/Img/Products/de7a12c1a960434cadc309df31da75ed_1875x1875.webp",
+    "weight": "0,3 л",
+    "price": 205,
+    "ingredients": "Как вкуснее есть печенье? Его лучше пить! Попробуйте молочный коктейль с мороженым и дробленым печеньем «Орео»"
+  },
+  {
+    "id":"chizkeik-nyu-iork",
+    "name": "Чизкейк Нью-Йорк",
+    "imageURL": "https://dodopizza-a.akamaihd.net/static/Img/Products/5a06bd533bb846f59cfb4b8c4e062f86_1875x1875.webp",
+    "weight": "100 г",
+    "price": 149,
+    "ingredients": "Мы перепробовали тысячу десертов и наконец нашли любимца гостей — нежнейший творожный чизкейк"
+  },
+  {
+    "id":"banan_chizkeyk",
+    "name": "Чизкейк Банановый с шоколадным печеньем",
+    "imageURL": "https://dodopizza-a.akamaihd.net/static/Img/Products/2556eeed7a3b4822ba62a6f30e111465_1875x1875.webp",
+    "weight": "100 г",
+    "price": 149,
+    "ingredients": "Солнечный снаружи и яркий по вкусу внутри. Летняя новинка — нежный чизкейк с бананом и шоколадным печеньем"
+  },
+  {
+    "id":"klassicheskiy-koktejl",
+    "name": "Классический молочный коктейль",
+    "imageURL": "https://dodopizza-a.akamaihd.net/static/Img/Products/1155a1673130444b9ce96b8e6f9ce307_1875x1875.webp",
+    "weight": "0,3 л",
+    "price": 175,
+    "ingredients": "В мире так много коктейлей, но классика — вечна. Попробуйте наш молочный напиток с мороженым"
+  },
+  {
+    "id":"sorbet_turkey",
+    "name": "Сорбет Турецкий гранат с клубникой",
+    "imageURL": "https://dodopizza-a.akamaihd.net/static/Img/Products/60342e8d74ea41559dda365e9b7c70f1_1875x1875.webp",
+    "weight": "1 шт",
+    "price": 225,
+    "ingredients": "Горячий восток в прохладном десерте. Оцените дуэт граната и сладкой клубники. Название продукта фантазийное и не означает, что продукт содержит гранаты из Турции"
+  }
+  
+]

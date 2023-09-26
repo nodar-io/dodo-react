@@ -1,0 +1,30 @@
+.count {
+  z-index: 2;
+
+  left: 120px;
+  width: 108px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  background-color: rgb(243, 243, 247);
+  box-sizing: border-box;
+  border-radius: 99px;
+  -webkit-box-pack: justify;
+  justify-content: space-between;
+  cursor: default;
+
+  button {
+    min-width: auto !important;
+    padding: 5px 15px;
+    background: none;
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
+    &:hover {
+      background-color: rgb(243, 243, 247);
+    }
+  }
+  span {
+    font-weight: 600;
+  }
+}

@@ -1,0 +1,134 @@
+.modalcart {
+  position: fixed;
+
+  height: 100vh;
+  width: 34%;
+  background-color: rgba(#fff, 0.9);
+  right: 0;
+
+  transition: transform 0.4s;
+  &__content {
+    padding: 20px 0px 0px 0px;
+    display: flex;
+    overflow: auto;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+    //margin-top: 24px;
+    // margin-bottom: 4px;
+    font-size: 24px;
+    line-height: 28px;
+    p:nth-child(1) {
+      margin-bottom: 10px;
+      margin-left: 16px;
+    }
+  }
+  &__footer {
+    padding: 12px 16px;
+    background-color: #fff;
+    text-align: center;
+    z-index: 100;
+  }
+  &__footer-info {
+    font-size: 18px;
+    font-weight: bold;
+    padding-top: 10px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+  }
+}
+.show {
+  transform: translateX(0px);
+}
+.hide {
+  transform: translateX(500px);
+}
+
+.button__close-cart {
+  text-shadow: none;
+  margin: 0px;
+  padding: 0px;
+  background: none;
+  border: none;
+  font: inherit;
+  cursor: pointer;
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  top: calc(50% - 12px);
+  left: -48px;
+  transition: transform 500ms ease 0s;
+
+  &:hover {
+    transform: scale(1.1) rotate(180deg);
+  }
+}
+@mixin button{
+  position: relative;
+  height: 50px;
+  width: 95%;
+  border: none;
+  font-size: 16px;
+  transition-property: background-color, color;
+  transition-duration: 200ms;
+  transition-timing-function: ease-out;
+  cursor: pointer;
+  margin-top: 16px;
+
+  border-radius: 30px;
+  background-color: $orange;
+  color: #fff;
+
+  &:hover {
+    background-color: #e86100;
+  }
+  span{
+    font-size: 17px;
+  }
+  svg {
+    position: absolute;
+    right: 15px;
+    top: 15px;
+    path {
+      stroke: rgb(255, 255, 255);
+    }
+  }
+}
+.button__footer-cart {
+  @include button;
+}
+.footer-fixed{
+  font-size: 16px;
+  font-weight: bold;
+  width: 100%;
+  
+  z-index: 1;
+  bottom: 0px;
+  left: 0px;
+  position: fixed;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: space-between;
+  transform: translateY(0px);
+   opacity:0;
+  box-shadow: rgba(6, 5, 50, 0.1) 0px 6px 20px;
+  padding: 12px 16px;
+  background: rgb(255, 255, 255);
+  transition: transform 80ms ease-out 0s, opacity;
+button{
+  @include button;
+  width:60%;
+}
+
+}
+.visible__footer{
+  opacity:1;
+}
+.invisible__footer{
+  opacity:0;
+}
+
+
+
